@@ -72,3 +72,10 @@ One of the electrolytic condensators has the wrong polarity!! Make sure to "beep
 Reset circuitry might or might not be borked!!
 
 I should buy some more cheap electronics to JHACKULATE!!
+
+## Bottom line
+A single JTAGULATOR is 199$
+
+Designing, producing and building the JHACKULATOR cost me ~200$ for 5 boards and enough parts until the end of my life. Yes I ALWAYS overbuy on parts! Shipping the boards from China to Europe and the parts from America to Europe VIA EXPRESS INCLUDED! So the JHACKULATOR is around 5 times cheaper!
+
+Build your own! Its fun!!
