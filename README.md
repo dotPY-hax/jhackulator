@@ -73,6 +73,8 @@ Reset circuitry might or might not be borked!!
 
 I should buy some more cheap electronics to JHACKULATE!!
 
+I REALLY need to play around with the Propeller MCU more. Its super awesome and unique! EVERYBODY should use it to have some fun!!
+
 ## Bottom line
 A single JTAGULATOR is 199$
 
